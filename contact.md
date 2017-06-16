@@ -3,24 +3,22 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [kdohyeon@postech.ac.kr](mailto:kdohyeon@postech.ac.kr)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: +82-10-7477-7422
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 77 Cheongam-Ro, Nam-Gu
 >
-> London
+> Pohang, Gyeongbuk
 >
-> United Kingdom
+> Korea (37673)
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Facebook](https://www.facebook.com/4ohJung)
