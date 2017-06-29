@@ -37,6 +37,9 @@ Amador Valley High School
 1. Yi. H, Cho, M., **Kim, D.**, Song, M., “An application of Process mining on Business Process Re-engineering: A case study” In *Industrial Engineering and Management Science (대한산업공학회)*, Ramada Hotel, Jeju, Korea, April 13-16, 2016.
 
 ## Research
+#### 2017
+1. 삼성 IoT
+
 #### 2016
 1. Development of a statistical analysis program for LKAS (Lane Keeping Assist System) performance evaluation. Co-work: 현대자동차그룹
 
