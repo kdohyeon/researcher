@@ -38,7 +38,7 @@ Amador Valley High School
 
 ## Research
 #### 2017
-1. 삼성 IoT
+1. Multi-device / Multi-source Data 기반 IoT Intelligence 서비스 경험 연구. Co-work: 삼성전자, 2017. 5. 15 ~ 2017. 9. 15
 
 #### 2016
 1. Development of a statistical analysis program for LKAS (Lane Keeping Assist System) performance evaluation. Co-work: 현대자동차그룹
