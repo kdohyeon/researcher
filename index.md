@@ -36,7 +36,7 @@ Amador Valley High School
 #### 2016
 1. Yi. H, Cho, M., **Kim, D.**, Song, M., “An application of Process mining on Business Process Re-engineering: A case study” In *Industrial Engineering and Management Science (대한산업공학회)*, Ramada Hotel, Jeju, Korea, April 13-16, 2016.
 
-## Research
+## Projects
 #### 2017
 1. Multi-device / Multi-source Data 기반 IoT Intelligence 서비스 경험 연구. Co-work: 삼성전자, 2017. 5. 15 ~ 2017. 9. 15
 
