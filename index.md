@@ -31,7 +31,7 @@ Amador Valley High School
 2. Lim, J., Cho, M., Song, M., **Kim, D.**, Choi, M., Yu, S., Kim, K., Baek, H., Kim, S., “Assessment of clinical pathways based on patients’ records: A case study” In *Industrial Engineering and Management Science (대한산업공학회)*, Yeosu Expo Convention Center, Yeosu, Korea, April 26-29, 2017 [in Korean]
 3. **Kim, D**., Park, K., Jang, H., Han, S., Kwak, J., Song, M., Choi, D., Won, Y., Jeong, I., “계측 데이터 분석 기반 LKA 성능 평가 방법” In *Industrial Engineering and Management Science (대한산업공학회)*, Yeosu Expo Convention Center, Yeosu, Korea, April 26-29, 2017 [in Korean]
 4. Jang, H., Kwahk, J., Han, S., Song, M., Choi, D., Park, K., **Kim, D.**, Won, Y., Jeong, I., "Suggesting Design Method for Performance Evaluation System Based on IoT Data: Considering UX", Proceedings of the Tenth International Conference on Advances in Computer-Human Interactions (2017) [in English]
-5. Cho, M., Song, M., Kim, D., Kim, K., Jung, C., Kim, K., “공공데이터를 활용한 고용보험 가입 예측 모델 개발” In Korea Bigdata Society (한국빅데이터학회), Yonsei University, Seoul, Korea, May 12, 2017. [in Korean]
+5. Cho, M., Song, M., **Kim, D.**, Kim, K., Jung, C., Kim, K., “공공데이터를 활용한 고용보험 가입 예측 모델 개발” In Korea Bigdata Society (한국빅데이터학회), Yonsei University, Seoul, Korea, May 12, 2017. [in Korean]
 
 #### 2016
 1. Yi. H, Cho, M., **Kim, D.**, Song, M., “An application of Process mining on Business Process Re-engineering: A case study” In *Industrial Engineering and Management Science (대한산업공학회)*, Ramada Hotel, Jeju, Korea, April 13-16, 2016.
