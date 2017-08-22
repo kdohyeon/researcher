@@ -4,5 +4,8 @@
 - name: "Resume"
   link: "resume.pdf"
 
+- name: "News"
+  link: "news"
+
 - name: "About"
   link: "index"
