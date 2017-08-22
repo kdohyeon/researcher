@@ -1,8 +1,9 @@
 ### [2017. 04. 26 - 2017. 04. 29]
-2017 ëŒ€í•œì‚°ì—…ê³µí•™íšŒ ì¶˜ê³„ê³µë™í•™ìˆ ëŒ€íšŒ
 
-ì—¬ìˆ˜ ì—‘ìŠ¤í¬
+2017 ´ëÇÑ»ê¾÷°øÇÐÈ¸ Ãá°è°øµ¿ÇÐ¼ú´ëÈ¸
 
-ë…¼ë¬¸ "ê³„ì¸¡ ë°ì´í„° ë¶„ì„ ê¸°ë°˜ LKA ì„±ëŠ¥ í‰ê°€ ë°©ë²•"
+¿©¼ö ¿¢½ºÆ÷
 
-<img class="profile-picture" src="dohyeon.jpg">
+³í¹® "°èÃø µ¥ÀÌÅÍ ºÐ¼® ±â¹Ý LKA ¼º´É Æò°¡ ¹æ¹ý"
+
+<img src="img/2017_kiie_spring.jpg">
