@@ -42,7 +42,7 @@ Amador Valley High School
 2. 프로세스 마이닝 기반 시스템로그 및 UX 분석 모델 . Co-work: 삼성중공업, 2017. 8. 1 ~ 2017. 10. 31. 연구책임자: 송민석교수님
 
 #### 2016
-1. Development of a statistical analysis program for LKAS (Lane Keeping Assist System) performance evaluation. Co-work: 현대자동차그룹. 2016. 5. 15 ~ 2017. 7. 31. 연구책임자: 교수님
+1. Development of a statistical analysis program for LKAS (Lane Keeping Assist System) performance evaluation. Co-work: 현대자동차그룹. 2016. 5. 15 ~ 2017. 7. 31. 연구책임자: 한성호교수님
 
 ## Award
 #### 2015
