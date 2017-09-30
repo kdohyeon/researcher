@@ -23,7 +23,8 @@ Hvitfeldtska Gymnasiet
 Amador Valley High School  
 
 ## Publications
--
+#### 2017
+1. Park, K., Kwak, J., Han, S., Song, M., Choi, D., Jang, H., **Kim, D.**, Won, Y., Jeong, I., "Modelling the Intrusive Feelings of Advanced Driver Assistance Systems based on Vehicle Activity Log Data: A Case Study for the Lane Keeping Assistance System" International Journal of Industrial Ergonomics (In Submission)
 
 ## Conferences
 #### 2017
