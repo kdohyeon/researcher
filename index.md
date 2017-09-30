@@ -44,7 +44,7 @@ Amador Valley High School
 
 #### 2016
 1. Development of a statistical analysis program for LKAS (Lane Keeping Assist System) performance evaluation. Co-work: 현대자동차그룹. 2016. 5. 15 ~ 2017. 7. 31. 연구책임자: 한성호교수님
-2. 대용량 데이터를 활용한 산재 및 고용보험 가입누락 조사대상 사업장 구축. Co-work: 근로복지공단. 2016. 5. 1 ~ 2016. 8. 31. 연구책임자: 송민석 교수님
+2. 대용량 데이터를 활용한 산재 및 고용보험 가입누락 조사대상 사업장 구축. Co-work: 근로복지공단. 2016. 5. 1 ~ 2016. 8. 31. 연구책임자: 송민석교수님
 
 ## Award
 #### 2015
