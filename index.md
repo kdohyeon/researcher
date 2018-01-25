@@ -39,6 +39,9 @@ Amador Valley High School
 1. Yi. H, Cho, M., **Kim, D.**, Song, M., “An application of Process mining on Business Process Re-engineering: A case study” In *Industrial Engineering and Management Science (대한산업공학회)*, Ramada Hotel, Jeju, Korea, April 13-16, 2016.
 
 ## Projects
+### 2018
+1. DATA 기반 INTELLIGENCE 서비스 경험 산학 연구. Co-work: 삼성전자. 2017. 12. 11 ~ 2018. 04. 30. 연구책임자: 곽지영 교수님
+
 #### 2017
 1. Multi-device / Multi-source Data 기반 IoT Intelligence 서비스 경험 연구. Co-work: 삼성전자. 2017. 5. 15 ~ 2017. 9. 15. 연구책임자: 곽지영교수님
 2. 프로세스 마이닝 기반 시스템로그 및 UX 분석 모델 . Co-work: 삼성중공업, 2017. 8. 1 ~ 2017. 10. 31. 연구책임자: 송민석교수님
