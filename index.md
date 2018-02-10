@@ -23,6 +23,9 @@ Hvitfeldtska Gymnasiet
 Amador Valley High School  
 
 ## Publications
+#### 2018
+1. Park, K., **Kim, D.**, Han, S., "The Effects of Button Size, Spacing, and Depth on the Usability of Virtual Reality Head-Mounted Displays using Hand Interaction" (In Working Progress)
+
 #### 2017
 1. Park, K., Kwak, J., Han, S., Song, M., Choi, D., Jang, H., **Kim, D.**, Won, Y., Jeong, I., "Modelling the Intrusive Feelings of Advanced Driver Assistance Systems based on Vehicle Activity Log Data: A Case Study for the Lane Keeping Assistance System" International Journal of Industrial Ergonomics (In Submission)
 2. Cho, M., **Kim, D.**, Song, M., Kim, G., Jeong, C., Kim, K., "공공데이터 기반 고용보험 가입 예측 모델 개발 연구" The Journal of BigData, Vol. 2, No. 2, pp. 17-31, ISSN 2508-1829. (한국빅데이터학회지)
