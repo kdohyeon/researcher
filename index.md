@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="dohyeon.jpg">
 
-Dohyeon Kim is a master student at the Dept. of Industrial Engineering at POSTECH (Pohang University of Science and Technology) in South Korea. His research interests center on Process Mining, big data analytics, and data visualizations. He has joined [Analytics & Information Management Lab.](http://aim.postech.ac.kr) (Prof. Minseok Song) since 2014. 
+Dohyeon Kim is a master student at the Dept. of Industrial Engineering at POSTECH (Pohang University of Science and Technology) in South Korea. His research interests center on Process Mining, big data analytics, and data visualizations. He has joined [Analytics & Information Management Lab.](http://aim.postech.ac.kr) (Prof. Minseok Song) since 2014.
 
 ## Education
 
