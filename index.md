@@ -47,7 +47,8 @@ Amador Valley High School
 
 ## Projects
 ### 2018
-1. DATA 기반 INTELLIGENCE 서비스 경험 산학 연구. Co-work: 삼성전자. 2017. 12. 11 ~ 2018. 04. 30. 연구책임자: 곽지영 교수님
+1. 스풀/철의장품 제작 공정 로그 데이터 기반 이상 공정 탐지 알고리즘 개발. Co-work: 삼성중공업. 2018. 03 ~ 2018. 06. 연구책임자: 송민석교수님
+2. DATA 기반 INTELLIGENCE 서비스 경험 산학 연구. Co-work: 삼성전자. 2017. 12. 11 ~ 2018. 04. 30. 연구책임자: 곽지영교수님
 
 #### 2017
 1. Multi-device / Multi-source Data 기반 IoT Intelligence 서비스 경험 연구. Co-work: 삼성전자. 2017. 5. 15 ~ 2017. 9. 15. 연구책임자: 곽지영교수님
