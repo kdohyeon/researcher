@@ -31,6 +31,10 @@ Amador Valley High School
 2. Cho, M., **Kim, D.**, Song, M., Kim, G., Jeong, C., Kim, K., "공공데이터 기반 고용보험 가입 예측 모델 개발 연구" The Journal of BigData, Vol. 2, No. 2, pp. 17-31, ISSN 2508-1829. (한국빅데이터학회지)
 
 ## Conferences
+#### 2018
+1. Lee, M., Kwak, J., Han, S., Song, M., Jeong, D., Cho, M., **Kim, D.**, Lee, D., "IoT환경에서의 지능형 서비스에 대한 사용자 요구사항 조사 및 분석" In *Spring Conference of the Ergonomics Society of Korea (대한인간공학회)*, Jeju Phoenix Resort, Jeju, Korea, May 16-19, 2018
+2. Park, K., **Kim, D.**, Han, S., "Touch of Push?: Button design for VR HMD using Hand Interaction" In *Spring Conference of the Ergonomics Society of Korea (대한인간공학회)*, Jeju Phoenix Resort, Jeju, Korea, May 16-19, 2018
+
 #### 2017
 1. Park, K., Han, S., Kwak, J., Song, M., Choi, D., Jang, H., **Kim, D.**, Won, Y., Jeong, I., “차선 유지 보조시스템의 성능 지표 제안” In *Spring Conference of the Ergonomics Society of Korea (대한인간공학회)*, Jeju Kensington Resort, Jeju, Korea, April 27-30, 2017
 2. Lim, J., Cho, M., Song, M., **Kim, D.**, Choi, M., Yu, S., Kim, K., Baek, H., Kim, S., “Assessment of clinical pathways based on patients’ records: A case study” In *Industrial Engineering and Management Science (대한산업공학회)*, Yeosu Expo Convention Center, Yeosu, Korea, April 26-29, 2017
