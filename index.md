@@ -24,7 +24,8 @@ Amador Valley High School
 
 ## Publications
 #### 2018
-1. Park, K., **Kim, D.**, Han, S., "The Effects of Button Size, Spacing, and Depth on the Usability of Virtual Reality Head-Mounted Displays using Hand Interaction" (In Working Progress)
+1. Park, K., **Kim, D.**, Han, S., "Usability of the Size, Spacing, and Depth of Virtual Buttons on Head-Mounted Displays" Applied Ergonomics, (In Submission)
+2. Park, K., Kwak, J., Han, S., Song, M., Choi, D., Jang, H., **Kim, D.**, "Measuring the Intrusive Feeling of a Lane Keeping Assistance System" Journal of the Ergonomics of Korea (In Submission)
 
 #### 2017
 1. Park, K., Kwak, J., Han, S., Song, M., Choi, D., Jang, H., **Kim, D.**, Won, Y., Jeong, I., "Modelling the Intrusive Feelings of Advanced Driver Assistance Systems based on Vehicle Activity Log Data: A Case Study for the Lane Keeping Assistance System" International Journal of Industrial Ergonomics (In Submission)
