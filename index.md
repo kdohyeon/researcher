@@ -9,6 +9,8 @@ layout: default
 Dohyeon Kim is a master student at the Dept. of Industrial Engineering at POSTECH (Pohang University of Science and Technology) in South Korea. His research interests center on Process Mining, big data analytics, and data visualizations. He has joined [Analytics & Information Management Lab.](http://aim.postech.ac.kr) (Prof. Minseok Song) since 2014.
 
 ## Work Experience
+#### July 2018 - Present
+
 
 ## Education
 
@@ -27,10 +29,10 @@ Amador Valley High School
 ## Publications
 #### 2018
 1. Park, K., **Kim, D.**, Han, S., "Usability of the Size, Spacing, and Depth of Virtual Buttons on Head-Mounted Displays" Applied Ergonomics, (In Submission)
-2. Park, K., Kwak, J., Han, S., Song, M., Choi, D., Jang, H., **Kim, D.**, "Measuring the Intrusive Feeling of a Lane Keeping Assistance System" Journal of the Ergonomics of Korea (In Submission)
+2. Park, K., Kwak, J., Han, S., Song, M., Choi, D., Jang, H., **Kim, D.**, "Measuring the Intrusive Feeling of a Lane Keeping Assistance System" Journal of the Ergonomics of Korea (Under revision)
 
 #### 2017
-1. Park, K., Kwak, J., Han, S., Song, M., Choi, D., Jang, H., **Kim, D.**, Won, Y., Jeong, I., "Modelling the Intrusive Feelings of Advanced Driver Assistance Systems based on Vehicle Activity Log Data: A Case Study for the Lane Keeping Assistance System" International Journal of Industrial Ergonomics (In Submission)
+1. Park, K., Kwak, J., Han, S., Song, M., Choi, D., Jang, H., **Kim, D.**, Won, Y., Jeong, I., "Modelling the Intrusive Feelings of Advanced Driver Assistance Systems based on Vehicle Activity Log Data: A Case Study for the Lane Keeping Assistance System" International Journal of Industrial Ergonomics (Under revision)
 2. Cho, M., **Kim, D.**, Song, M., Kim, G., Jeong, C., Kim, K., "공공데이터 기반 고용보험 가입 예측 모델 개발 연구" The Journal of BigData, Vol. 2, No. 2, pp. 17-31, ISSN 2508-1829. (한국빅데이터학회지)
 
 ## Conferences
