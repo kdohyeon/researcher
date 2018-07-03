@@ -10,16 +10,19 @@ Dohyeon Kim is a master student at the Dept. of Industrial Engineering at POSTEC
 
 ## Work Experience
 #### July 2018 - Present
-
+Software Developer at Coupang
 
 ## Education
 
-#### July 2016 - Present
+#### July 2016 - August 2018
 Pohang University of Science and Technology (POSTECH)  
 *M.S. in Industrial and Management Engineering*
+*Master's Thesis on "Multi-Perspective Anomaly Detection in Process Mining"*
+
 #### March 2012 - February 2016
 Ulsan National Institute of Science and Technology (UNIST)  
 *B.S. in Computer Science Engineering and Technological Management (Magna Cum Laude)*
+
 #### September 2008 - May 2011
 Hvitfeldtska Gymnasiet  
 *International Baccalaureate (IB) Program*
@@ -32,7 +35,7 @@ Amador Valley High School
 2. Park, K., Kwak, J., Han, S., Song, M., Choi, D., Jang, H., **Kim, D.**, "Measuring the Intrusive Feeling of a Lane Keeping Assistance System" Journal of the Ergonomics of Korea (Under revision)
 
 #### 2017
-1. Park, K., Kwak, J., Han, S., Song, M., Choi, D., Jang, H., **Kim, D.**, Won, Y., Jeong, I., "Modelling the Intrusive Feelings of Advanced Driver Assistance Systems based on Vehicle Activity Log Data: A Case Study for the Lane Keeping Assistance System" International Journal of Industrial Ergonomics (Under revision)
+1. Park, K., Kwak, J., Han, S., Song, M., Choi, D., Jang, H., **Kim, D.**, Won, Y., Jeong, I., "Modelling the Intrusive Feelings of Advanced Driver Assistance Systems based on Vehicle Activity Log Data: A Case Study for the Lane Keeping Assistance System" International Journal of Industrial Ergonomics.
 2. Cho, M., **Kim, D.**, Song, M., Kim, G., Jeong, C., Kim, K., "공공데이터 기반 고용보험 가입 예측 모델 개발 연구" The Journal of BigData, Vol. 2, No. 2, pp. 17-31, ISSN 2508-1829. (한국빅데이터학회지)
 
 ## Conferences
