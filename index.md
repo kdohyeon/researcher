@@ -6,11 +6,11 @@ layout: default
 
 <img class="profile-picture" src="dohyeon.jpg">
 
-Dohyeon Kim is a master student at the Dept. of Industrial Engineering at POSTECH (Pohang University of Science and Technology) in South Korea. His research interests center on Process Mining, big data analytics, and data visualizations. He has joined [Analytics & Information Management Lab.](http://aim.postech.ac.kr) (Prof. Minseok Song) since 2014.
+Dohyeon (Danny) Kim is a software developer at Coupang. He has completed Master's degree at the Dept. of Industrial Engineering at POSTECH (Pohang University of Science and Technology) in South Korea, under the advisory of Prof. Minseok Song. His research interests center on software engineering, process mining, big data analytics, and data visualizations. He was the member of [Analytics & Information Management Lab.](http://aim.postech.ac.kr) (Prof. Minseok Song) from 2014 to 2018.
 
 ## Work Experience
 #### August 2018 - Present
-Software Developer at Coupang. Technical Research Personnel (TRP).
+Software Engineer at Coupang. Technical Research Personnel (TRP).
 
 ## Education
 
