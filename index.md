@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## About Me 2
 
 <img class="profile-picture" src="dohyeon.jpg">
 
