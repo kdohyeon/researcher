@@ -11,6 +11,7 @@ Dohyeon (Danny) Kim is a software engineer at Coupang. He has completed Master's
 ## Work Experience
 #### August 2018 - Present
 Software Engineer at Coupang. Technical Research Personnel (TRP).
+* August 2018 - Present: Member of Benefits & Promotions team. Programming related with coupons, promotions, reward cash and etc.
 
 ## Education
 
